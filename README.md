@@ -5,4 +5,4 @@ I want you to think back to completeing your Sinatra assessment and project. How
 As always we are going to walk you up layers of abstraction. What that means is it will take a few lessons before you start to really feel the "magic" of Rails. That's good! Sometimes Rails provides so much magic that you don't actually know what's going on. Hopefully by understanding the HTTP underneath and by increasing levels of abstraction this will be mitigated.
 
 Have a ton of fun. Rails changed the way Web Apps are developed over the past 10 years, enjoy the spoils of many open source contributor's hard work.
-<a href='https://learn.co/lessons/welcome-to-rails' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/welcome-to-rails' title='welcome-to-rails'>welcome-to-rails</a> on Learn.co and start learning to code for free.</p>
